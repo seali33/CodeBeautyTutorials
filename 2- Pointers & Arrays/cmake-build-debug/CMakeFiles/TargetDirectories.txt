@@ -1,0 +1,3 @@
+C:/Users/FIROOZAS/OneDrive - University of South Carolina/2- GitHub/CodeBeautyTutorials/2- Pointers & Arrays/cmake-build-debug/CMakeFiles/2__Pointers___Arrays.dir
+C:/Users/FIROOZAS/OneDrive - University of South Carolina/2- GitHub/CodeBeautyTutorials/2- Pointers & Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FIROOZAS/OneDrive - University of South Carolina/2- GitHub/CodeBeautyTutorials/2- Pointers & Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

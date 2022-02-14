@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2__Pointers___Arrays",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2__Pointers___Arrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2__Pointers___Arrays-Debug-54d3f0c3c4fc31a76bda.json",
+					"name" : "2__Pointers___Arrays",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/FIROOZAS/OneDrive - University of South Carolina/2- GitHub/CodeBeautyTutorials/2- Pointers & Arrays/cmake-build-debug",
+		"source" : "C:/Users/FIROOZAS/OneDrive - University of South Carolina/2- GitHub/CodeBeautyTutorials/2- Pointers & Arrays"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
