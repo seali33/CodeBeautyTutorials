@@ -6,7 +6,6 @@ using namespace std;
 
 class YouTubeChannel
 {
-
 public:
 	string Name;
 	string OwnerName;
